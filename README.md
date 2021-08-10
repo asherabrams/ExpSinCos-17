@@ -71,7 +71,6 @@ double func01(double){
     }
 }
 
-
 int main()
 {
     cout<<"Hello Sin Cos Exp\n\n";
