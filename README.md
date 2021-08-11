@@ -43,6 +43,7 @@ double outCos = 1;
 // We initialize the Cosine function at 1.
 // Even terms go into Cosine.
 
+  
 double func01(double){
     cout << "Enter a degree of precision (integer n):\n";
     cin >> n;
